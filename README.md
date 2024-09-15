@@ -1,2 +1,1 @@
-# Hotel-Par
-"Site" de um hotel em C++, feito durante meu primeiro semestre de faculdade de ciência da computação
+https://docs.google.com/document/d/14Jxa3QtBNF_cwVaywJuUfYfok1DIweekOCw4pCROQYI/edit
